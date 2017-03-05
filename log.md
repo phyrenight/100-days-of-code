@@ -28,3 +28,9 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+## Day 0: March 4, 2017
+
+**Today's progress**: Updated the CSS and add some bootstrap elements on to chit chat, also add paragraph tags to all paragraphs fix positioning testing.
+**Link to work** [chit chat](https://github.com/phyrenight/chitchat), [fix positioning testing](http://codepen.io/phyrenight/pen/wzQjjY) 
