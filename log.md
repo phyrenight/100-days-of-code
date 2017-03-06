@@ -33,4 +33,16 @@
 ## Day 0: March 4, 2017
 
 **Today's progress**: Updated the CSS and add some bootstrap elements on to chit chat, also add paragraph tags to all paragraphs fix positioning testing.
-**Link to work** [chit chat](https://github.com/phyrenight/chitchat), [fix positioning testing](http://codepen.io/phyrenight/pen/wzQjjY) 
+**Link to work** [chit chat](https://github.com/phyrenight/chitchat), [fix positioning testing](http://codepen.io/phyrenight/pen/wzQjjY)
+
+
+## Day 1: March 5, 2017
+
+**Today's progress**: 
+In the project Fixed Position Testing the display issue of all first letters in each paragraph being resized was fixed. Now only the first letter of the first paragraph in each section is enlarged. It took alot of experimenting until I figured out that the sibling selector will accomplish what I want done
+
+In the project Calculator I moved all interactivity into the javascript file. The errorthat happened when the equal sign was pressed multiple times after a problem was fixed. 
+
+**link(s) to work**
+1. [Fixed Position testing](http://codepen.io/phyrenight/pen/wzQjjY)
+2. [Calculator](https://github.com/phyrenight/Calculator)
