@@ -46,3 +46,12 @@ In the project Calculator I moved all interactivity into the javascript file. Th
 **link(s) to work**
 1. [Fixed Position testing](http://codepen.io/phyrenight/pen/wzQjjY)
 2. [Calculator](https://github.com/phyrenight/Calculator)
+
+
+##Day 2: March 6, 2017
+
+**Today's Progress**:
+Today I worked on the css for the FreeCodeCamp Tic Tac Toe game. It was smooth sailing until I  added in the X's and O's. Each time an X or O was place in a div the div would sink into the row beneath it. To fix this issue I set padding and margin to the p to 0%. Tic Tac Toe now looks decent on a mobile device.
+
+**link(s) to work**
+1. [Tic Tac Toe](https://github.com/phyrenight/TicTacToe)
