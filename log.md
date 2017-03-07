@@ -55,3 +55,11 @@ Today I worked on the css for the FreeCodeCamp Tic Tac Toe game. It was smooth s
 
 **link(s) to work**
 1. [Tic Tac Toe](https://github.com/phyrenight/TicTacToe)
+
+##Day 3: March 7, 2017
+
+**Today's progress**:
+Today the Tic Tac Toe project was finish. The site was made fully responsive and I fixed several errors that occured.
+
+**link(s) to work**
+1. [Tic Tac Toe](http://codepen.io/phyrenight/full/RpojGz/)
