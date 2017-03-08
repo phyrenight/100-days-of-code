@@ -63,3 +63,14 @@ Today the Tic Tac Toe project was finish. The site was made fully responsive and
 
 **link(s) to work**
 1. [Tic Tac Toe](http://codepen.io/phyrenight/full/RpojGz/)
+
+
+##Day 4: March 8, 2017
+
+**Today's progress**:
+Added a header to my portfolio page. In Tic Tac Toe I encased all Js in a self calling function. Moved button functionality to js. Started working on the FreeCodeCamp challenge Where art thou.
+
+**link(s) to work**
+1. [My portfolio](file:///home/phyrenight/programming/personal%20page/index.html)
+2. [Tic Tac Toe](https://github.com/phyrenight/TicTacToe)
+3. [Where art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
