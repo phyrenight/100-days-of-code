@@ -74,3 +74,12 @@ Added a header to my portfolio page. In Tic Tac Toe I encased all Js in a self c
 1. [My portfolio](file:///home/phyrenight/programming/personal%20page/index.html)
 2. [Tic Tac Toe](https://github.com/phyrenight/TicTacToe)
 3. [Where art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
+##Day 5: March 9, 2017
+
+
+**Today's Progress**:
+Finally finished where art thou on freecodecamp.
+
+**link(s) to work**
+1. [Where art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou
