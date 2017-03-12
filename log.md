@@ -83,3 +83,22 @@ Finally finished where art thou on freecodecamp.
 
 **link(s) to work**
 1. [Where art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou
+
+
+##Day 6: March 10, 2017
+**Today's progress**:
+Worked on personal website by removing some target _blanks from links. On Simon says project , modified several functions to test if game is on they do anything.
+
+**link(s) to work**
+1. [portfolio](http://phyrenight-personal-page.surge.sh)
+2. [Simon Says](http://codepen.io/phyrenight/pen/vgJqrE)
+
+##Day 7: March 11, 2017
+**Today's progress**:
+Worked on several python challenges.
+
+
+**link(s) to work**
+1. [checkPalindrone](https://codefights.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ)
+2. [adjacentElementsProduct](https://codefights.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)
+3. [centuryFromYear](https://codefights.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN)
