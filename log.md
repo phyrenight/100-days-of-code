@@ -102,3 +102,19 @@ Worked on several python challenges.
 1. [checkPalindrone](https://codefights.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ)
 2. [adjacentElementsProduct](https://codefights.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)
 3. [centuryFromYear](https://codefights.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN)
+
+##Day 8: March 12, 2017
+**Today's Progress**
+Worked on some challenges on codefights. Redid the CSS and Bootstrap on my tribute  project.
+
+**link(s) to work**
+1. [Circle of Numbers](https://codefights.com/arcade/code-arcade/intro-gates/vExYvcGnFsEYSt8nQ)
+2. [Reach Next Level](https://codefights.com/arcade/code-arcade/at-the-crossroads/m9wjpkCjgofg7gs8N)
+3. [Tribute page](https://github.com/phyrenight/tribute-page)
+
+##Day 9: march 13, 2017
+**Today's Progress**
+Worked on RomanNumeral convert from freecodecamp. Worked on some challenges on codefights.
+
+1. [RomanNumeral](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+2. []()
