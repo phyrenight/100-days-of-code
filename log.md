@@ -118,3 +118,12 @@ Worked on RomanNumeral convert from freecodecamp. Worked on some challenges on c
 
 1. [RomanNumeral](https://www.freecodecamp.com/challenges/roman-numeral-converter)
 2. []()
+
+
+##Day 10: March 14, 2017
+**Today's Progress**
+Worked on a new web page. the new web page is a slider that contains some pics of projects I created.
+
+*link(s) to work**
+1. [My Project Slider](https://github.com/phyrenight/MyProjectSlider)
+
