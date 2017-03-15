@@ -127,3 +127,10 @@ Worked on a new web page. the new web page is a slider that contains some pics o
 *link(s) to work**
 1. [My Project Slider](https://github.com/phyrenight/MyProjectSlider)
 
+
+##Day 11: March 15, 2017
+**Today's Progress**
+Worked on the CSS for My Slider Project.Added javscript to slider . Added a border that hightlights the a smaller pic in the project bar.
+
+**link(s) to work**
+1. [My Project Slider](https://github.com/phyrenight/MyProjectSlider)
