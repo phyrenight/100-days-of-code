@@ -135,7 +135,7 @@ Worked on the CSS for My Slider Project.Added javscript to slider . Added a bord
 **link(s) to work**
 1. [My Project Slider](https://github.com/phyrenight/MyProjectSlider)
 
-##Day 11: March 15, 2017
+##Day 11: March 16, 2017
 **Today's Progress**
 Fixed a bug on my Tic Tca Toe that would not let the user close the first prompt. I made changes to My Project Slider so that it is responsive.
 
@@ -143,3 +143,11 @@ Fixed a bug on my Tic Tca Toe that would not let the user close the first prompt
 **link(s) to work**
 1. [Tic Tac Toe](https://github.com/phyrenight/TicTacToe)
 2. [My Project Slider](https://github.com/phyrenight/MyProjectSlider)
+
+
+##Day 12: March 17, 2017
+**Today's Progress**
+Worked on FreeCodeCamp challenge Steamroller. 
+
+**link(s) to work**
+1. [steamroller](https://www.freecodecamp.com/challenges/steamroller) 
