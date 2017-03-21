@@ -150,4 +150,19 @@ Fixed a bug on my Tic Tca Toe that would not let the user close the first prompt
 Worked on FreeCodeCamp challenge Steamroller. 
 
 **link(s) to work**
-1. [steamroller](https://www.freecodecamp.com/challenges/steamroller) 
+1. [steamroller](https://www.freecodecamp.com/challenges/steamroller)
+
+##Day 13: March 18, 2017
+**Today's Progress**
+Started work on new web page. This web page will contain videos from youtube .I built most of the structure , nex I will work on the javascript part.
+
+**link(s) to work**
+1. [youtubers](https://github.com/phyrenight/MyfavoriteYoutubeChannels)
+
+
+##Day 14: March 21, 2017
+**Today's Progress**
+Started work on portfolio2. Layed the foundation by adding most of the html.
+
+**link(s) to work**
+1. [portfolio](https://github.com/phyrenight/portfolio2)
