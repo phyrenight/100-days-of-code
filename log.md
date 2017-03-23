@@ -82,7 +82,7 @@ Added a header to my portfolio page. In Tic Tac Toe I encased all Js in a self c
 Finally finished where art thou on freecodecamp.
 
 **link(s) to work**
-1. [Where art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou
+1. [Where art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
 
 
 ##Day 6: March 10, 2017
@@ -166,3 +166,18 @@ Started work on portfolio2. Layed the foundation by adding most of the html.
 
 **link(s) to work**
 1. [portfolio](https://github.com/phyrenight/portfolio2)
+
+##Day 15: March 22, 2017
+**Today's Progress**
+Worked on the sass/css for my portfolio2.
+
+**link(s) to work**
+1. [portfolio2](https://github.com/phyrenight/portfolio2)
+
+
+##Day 16: March 23, 2017
+**Today's Progress**
+Finished up on ths css for portfolio2. Portfolio2 is now mobile friendly and all items are aligned better. Linkedinlink has been changed to looklike a button
+
+**link(s) to work**
+1. [portfolio2](https://github.com/phyrenight/portfolio2)
