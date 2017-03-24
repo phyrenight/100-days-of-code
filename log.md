@@ -181,3 +181,12 @@ Finished up on ths css for portfolio2. Portfolio2 is now mobile friendly and all
 
 **link(s) to work**
 1. [portfolio2](https://github.com/phyrenight/portfolio2)
+
+
+##Day 17: March 24, 2017
+**Today's Progress**
+Worked on the css for portfolio. Added feature to display project details on hover. I can't seem to get the details to be placed over the project img.
+
+
+**link(s) to work**
+1. [portfolio2](https://github.com/phyrenight/portfolio2)
