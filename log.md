@@ -190,3 +190,22 @@ Worked on the css for portfolio. Added feature to display project details on hov
 
 **link(s) to work**
 1. [portfolio2](https://github.com/phyrenight/portfolio2)
+
+##Day 18: March 25, 2017
+**Today's Progress**
+I finished my portfolio for the 30Days 30 sites challenge.Worked on Event invitation for 30day 30 sites.
+
+
+**link(s) to work**
+1. [portfolio2](https://github.com/phyrenight/portfolio2)
+2. [Event invitation](https://github.com/phyrenight/invitation)
+
+
+#Day 19: March 26, 2017
+**Today's Progress**
+Finished up Event invitation for 30 day, 30 sites.
+Started work on tourist attraction
+
+**lik(s) to work**
+1. [event invitation](https://github.com/phyrenight/invitation)
+2. [Tourist attraction](https://github.com/phyrenight/Tourist-attraction)
