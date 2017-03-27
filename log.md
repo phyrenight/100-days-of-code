@@ -209,3 +209,11 @@ Started work on tourist attraction
 **lik(s) to work**
 1. [event invitation](https://github.com/phyrenight/invitation)
 2. [Tourist attraction](https://github.com/phyrenight/Tourist-attraction)
+
+
+##Day 20: March, 2017
+**Today's Progress**
+FOund images for the tourist site. Built the basic layout for tourist attraction
+
+**link(s) to work**
+1. [tourist attraction](https://github.com/phyrenight/Tourist-attraction)
