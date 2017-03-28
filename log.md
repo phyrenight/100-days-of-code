@@ -211,9 +211,16 @@ Started work on tourist attraction
 2. [Tourist attraction](https://github.com/phyrenight/Tourist-attraction)
 
 
-##Day 20: March, 2017
+##Day 20: March 27, 2017
 **Today's Progress**
-FOund images for the tourist site. Built the basic layout for tourist attraction
+Found images for the tourist site. Built the basic layout for tourist attraction
 
 **link(s) to work**
 1. [tourist attraction](https://github.com/phyrenight/Tourist-attraction)
+
+##Day 21: March 28, 2017
+**Today's Progress**
+Added parallax effect to the tourist attraction. Made site mobile first and responsive.
+
+**link(s) to work**
+1. [Tourist attration](https://github.com/phyrenight/Tourist-attraction)
