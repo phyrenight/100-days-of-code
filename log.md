@@ -224,3 +224,25 @@ Added parallax effect to the tourist attraction. Made site mobile first and resp
 
 **link(s) to work**
 1. [Tourist attration](https://github.com/phyrenight/Tourist-attraction)
+
+##Day 22: March 29, 2017
+**Today's Progress**
+Finished Tourist attraction project. Started on Product site.
+
+**link(s) to work**
+1. [Tourist Attraction](https://github.com/phyrenight/Tourist-attraction)
+2. [Product site](https://github.com/phyrenight/Product-site)
+
+##Day 23: March 30, 2017
+**Today's Progress**
+Finished Product site. Added modal feature to project and set the background.
+
+**link(s) to Project
+2. [Product site](https://github.com/phyrenight/Product-site)
+
+##Day 24: March 31, 2017
+**Today's Progress**
+
+
+**link(s) to Project**
+1. []()
